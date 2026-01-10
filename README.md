@@ -6,5 +6,5 @@ If you have an existing folder (e.g. with build artifacts) and want to restore t
 git init
 git remote add origin https://github.com/bluetapok-create/finder.git
 git fetch
-git checkout -t origin/main -f
+git checkout -t origin/master -f
 ```
